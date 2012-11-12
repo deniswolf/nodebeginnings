@@ -1,0 +1,18 @@
+{
+  "name": "nodebeginnings",
+  "version": "0.0.1",
+  "description": "a sample app for my presentation",
+  "author" : {
+      "name" : "Denis Wolf",
+      "email" : "dear.mr.dw@gmail.com"
+  },
+  "dependencies": {
+    "optimist":">=0.3"
+  },
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "engine" : {
+    "node" : ">=0.8"
+  }
+}
